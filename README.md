@@ -1,7 +1,7 @@
 # DJSV14-ALTYAPI
 
 Bu proje, Discord.js v14 ve MongoDB kullanılarak yapılmış boş bir Discord bot altyapısıdır. İçerisinde sadece emoji, ban, kick gibi temel komutlar bulunmaktadır.
-![Profil Fotoğrafı](https://i.imgur.com/U1screO.jpeg)
+![Profil Fotoğrafı](https://i.imgur.com/U1screO.jpeg](https://i.imgur.com/NWRW5vW.png)
 
 ## Kurulum
 
