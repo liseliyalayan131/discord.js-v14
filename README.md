@@ -9,7 +9,7 @@ Projenin yerel olarak nasıl kurulacağını burada anlatabilirsiniz.
 1. İlk olarak, projeyi klonlayın:
 
 ```bash
-git clone https://github.com/emreconf/djs-altyapi.git
+git clone https://github.com/liseliyalayan131/djs-altyapi.git
 ```
 
 2. Daha sonra, gerekli paketleri yükleyin:
@@ -52,7 +52,7 @@ Botunuz artık çalışır durumda olmalıdır. Discord sunucunuzda botunuzun ko
 
 ## Destek
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, [Discord sunucumuza](https://discord.gg/harmoni) katılabilir veya [Instagram](https://instagram.com/emreconf) üzerinden bize ulaşabilirsiniz.
+Herhangi bir sorunuz veya geri bildiriminiz varsa, [Discord sunucumuza](https://discord.gg/spmAAJQZXH) katılabilir veya [Instagram](https://instagram.com/emreconf) üzerinden bize ulaşabilirsiniz.
 
 
 ## Lisans
